@@ -116,11 +116,11 @@ Library
     containers,
     pretty >= 1.1,
     deepseq-generics,
-    unordered-containers >= 0.2.5 && < 0.3,
+    unordered-containers >= 0.2.5,
     hashable,
     pqueue,
-    list-t >= 0.2.3 && < 0.3,
-    mmorph >= 1.0.4 && < 1.1,
+    list-t >= 0.2.3,
+    mmorph >= 1.0.4,
     mtl-c,
     transformers,
     mtl,
@@ -134,7 +134,7 @@ Library
     directory,
     bifunctors,
     safe,
-    lens >= 4.12 && < 4.13,
+    lens >= 4.12,
     multistate >= 0.6.2
 
 
